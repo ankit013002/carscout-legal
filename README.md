@@ -1,10 +1,5 @@
-# Scout: Car Buying Agents — legal & support pages
+# Scout: moved
 
-Public pages for the App Store and Google Play listings, served with GitHub Pages:
-
-- Privacy Policy: privacy.html
-- Terms of Service: terms.html
-- Support: support.html
-- Account deletion: delete-account.html
-
-© 2026 Petalform LLC
+Scout's privacy policy, terms and support pages now live at **https://petalformllc.com/apps/scout/**.
+Every page of this GitHub Pages site redirects to its new address, so old links keep working.
+Edit the documents in the `petalformllc-site` repo (`content/legal/scout/`), not here.
